@@ -1,3 +1,3 @@
-let BoardMember () {
-  
+let BoardMember = function () {
+
 }
