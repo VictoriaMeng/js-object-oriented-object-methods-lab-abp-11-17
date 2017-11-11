@@ -16,6 +16,6 @@ let BoardMember = function (name, homeState, training) {
   }
 
   this.releasePressStatement = function () {
-
+    return "You will see great things from Scuber."
   }
 }
