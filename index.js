@@ -1,3 +1,3 @@
-let BoardMember = function () {
+let BoardMember = function (name, homeState, training) {
 
 }
